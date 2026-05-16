@@ -1,4 +1,4 @@
-# 
+# Polymarket best Automation Script: trailing-stops & API-integration is the best Polymarket automation-script, featuring trailing-stops and API-integration. Smart, fast, and
 
 
 
